@@ -15,7 +15,7 @@ const FeaturedProjects = async () => {
 					<div>
 						<FadeUp cascade damping={0.15}>
 							<h2 className="h2">Featured projects</h2>
-							<p>Here are some of my projects that I've worked on:</p>
+							<p>Here are some of the projects that I've worked on:</p>
 						</FadeUp>
 					</div>
 				}
